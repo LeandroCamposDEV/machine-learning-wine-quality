@@ -1,0 +1,7 @@
+{
+    "endpoint_name": "laboratorioai900-rbtbd",
+    "endpoint_url": "https://laboratorioai900-rbtbd.eastus.inference.ml.azure.com/jobs",
+    "model_name": "WineQualityModel:1",
+    "authentication_type": "AADToken"
+  }
+  
